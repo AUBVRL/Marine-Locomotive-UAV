@@ -5,6 +5,10 @@ A MATLAB/Simulink implementation of a robotic system consisting of a quadrotor U
 # Prerequisites
 MATLAB/Simulink software v2018a or higher.
 
+# Description
+1. Use 'Marine_LocoMotive_UAV_est_git_parameters.m' to load the small system including a mini-multirotor and a small sized buoy. <br />
+2. Use 'Marine_LocoMotive_UAV_medium_est_git_parameters.m' to load the medium system including a medium-size multirotor and a medium-sized buoy. <br />
+
 # How to use
 1. ... <br />
 2. ... <br />
