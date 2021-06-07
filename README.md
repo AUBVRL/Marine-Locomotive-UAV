@@ -3,7 +3,7 @@ A MATLAB/Simulink implementation of a robotic system consisting of a quadrotor U
 
 
 <p align="center">
-  <img src="https://github.com/AUBVRL/Marine-Locomotive-UAV/blob/master/visualization/Scene_SVCS_C2_snap01.tif
+  <img src="https://github.com/AUBVRL/Marine-Locomotive-UAV/blob/master/visualization/Scene_SVCS_C2_snap01.jpg
 " width="640" height="360" >
   <br />
   Visualization of the marine locomotive UAV system in the VRML simulator.
