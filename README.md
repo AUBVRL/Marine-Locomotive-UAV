@@ -2,6 +2,13 @@
 A MATLAB/Simulink implementation of a robotic system consisting of a quadrotor UAV that pulls a floating buoy across water. Velocity manipulation of the buoy is allowed through a tether that links the UAV to the buoy.
 
 
+<p align="center">
+  <img src="https://github.com/AUBVRL/Marine-Locomotive-UAV/blob/master/visualization/Scene_SVCS_C2_snap01.tif
+" width="640" height="360" >
+  <br />
+  Visualization of the marine locomotive UAV system in the VRML simulator.
+</p>
+
 # Prerequisites
 MATLAB/Simulink software v2018a or higher.
 
